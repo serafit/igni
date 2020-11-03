@@ -5,7 +5,7 @@ Igni (witcher's sign). Simple but powerful spammer for 32 services. Write down t
 
 pip3 install requests 
 
-git clone https://github.com/igni 
+git clone https://github.com/serafit/igni
 
 cd igni 
 
