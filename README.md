@@ -3,7 +3,11 @@ Igni (witcher's sign). Simple but powerful spammer for 32 services. Write down t
 
 # Instalation (Linux/Termux) 
 
-pip3 install requests 
+pip3 install requests
+
+pip3 install aiohttp
+
+pip3 install termcolor
 
 git clone https://github.com/serafit/igni
 
